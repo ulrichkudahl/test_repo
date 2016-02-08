@@ -1,4 +1,4 @@
 # test_repo
 Testing repo
 Hello world
-Contributors: Ulrich Kudahl
+Contributors: Ulrich Kudahl and Mikhail
